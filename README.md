@@ -20,9 +20,7 @@ Estou estudando:
 </table>
 </center>   
 
-Contact:
-
-:e-mail: bruna.magalhaes02@hotmail.com
+Contato:e-mail: bruna.magalhaes02@hotmail.com
 
 
 
