@@ -20,9 +20,9 @@ Estou estudando:
 </table>
 </center>   
 
-Contato:e-mail: bruna.magalhaes02@hotmail.com
+Contato:
 
-
+:e-mail: bruna.magalhaes02@hotmail.com
 
 <!--
 **Bruna-Pianco/Bruna-Pianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
