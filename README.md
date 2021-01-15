@@ -9,7 +9,7 @@ Moro em São Paulo.
 Estou estudando:
 
 - Ensino técnico ETEC Basilides de Godoy - 2º Modulo.
-- Tecnólogo: Impacta College - 1º Semestre
+- Tecnólogo: Faculdade Impacta - 1º Semestre
 
 <center>
 <table>
