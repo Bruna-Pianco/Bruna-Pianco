@@ -11,6 +11,10 @@ Estou estudando:
 - Ensino Técnico ETEC Basilides de Godoy - Desenvolvimento de Sistemas 2º Modulo.
 - Tecnólogo: Faculdade Impacta - Análise e Desenvolvimento de Sistemas 1º Semestre.
 
+Contato:
+
+:e-mail: bruna.magalhaes02@hotmail.com
+
 <center>
 <table>
     <tr>
@@ -20,9 +24,6 @@ Estou estudando:
 </table>
 </center>   
 
-Contato:
-
-:e-mail: bruna.magalhaes02@hotmail.com
 
 <!--
 **Bruna-Pianco/Bruna-Pianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
