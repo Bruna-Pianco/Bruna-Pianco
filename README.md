@@ -1,5 +1,5 @@
 
-###  <img src="perfil.png" width="1000px">
+###  
 Olá :raised_hand_with_fingers_splayed: 
 
 Meu nome é Bruna Pianco tenho 26 anos, neste momento estou estudando sobre HTML, CSS, JavaScript e C#.
