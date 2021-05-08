@@ -2,7 +2,7 @@
 ###  
 Olá :raised_hand_with_fingers_splayed: 
 
-Meu nome é Bruna Pianco tenho 26 anos, neste momento estou estudando sobre HTML, CSS, JavaScript e C#.
+Meu nome é Bruna Pianco tenho 27 anos, neste momento estou estudando sobre HTML, CSS, JavaScript e C#.
 
 Moro em São Paulo. 
 
