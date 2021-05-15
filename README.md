@@ -1,11 +1,12 @@
 
 ## Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>:earth_americas:
 
-Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! 
+Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! :happy:
 
  :house_with_garden:Moro em São Paulo
 
 :books: Cursando Análise e Desenvolvimento de Sistemas | Faculdade Impacta
+
 
 
 Tecnologias que uso e estudo atualmente:
@@ -22,21 +23,35 @@ Tecnologias que uso e estudo atualmente:
 </p>
 
 
+
+
 <p>
     <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&hide=html&layout=compact&theme=tokyonight" />   
- </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+​    
+
+
+
+
+
+
+
+
+
+<br/>
+
+<br/>
+
 <p>
- Contato:
+    Contato:
     <a href="https://www.linkedin.com/in/bruna-pianco/">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
     </a>
- </p>
- 
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Bruna-Pianco/count.svg" />
- </p>
+</p>
+
 
 
 <!--
