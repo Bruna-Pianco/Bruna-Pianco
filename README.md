@@ -1,5 +1,5 @@
 
-## Hello World! <img src="https://img.icons8.com/ultraviolet/30/fa314a/like.png"/>:earth_americas:
+## Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>:earth_americas:
 
 Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! :happy:
 
