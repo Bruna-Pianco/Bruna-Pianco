@@ -29,7 +29,7 @@ Tecnologias que uso e estudo atualmente:
     <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&hide=html&layout=compact&theme=tokyonight" />   
 </p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p>
     Contato:
