@@ -1,28 +1,42 @@
 
-###  
-Olá :raised_hand_with_fingers_splayed: 
+## Hello World! <img src="https://img.icons8.com/ultraviolet/40/fa314a/like.png"/>:earth_americas:
 
-Meu nome é Bruna Pianco tenho 27 anos, neste momento estou estudando sobre HTML, CSS, JavaScript e C#.
+Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! :happy:
 
-Moro em São Paulo. 
+ :house_with_garden:Moro em São Paulo
 
-Estou estudando:
+:books: Cursando Análise e Desenvolvimento de Sistemas | Faculdade Impacta
 
-- Ensino Técnico ETEC Basilides de Godoy - Desenvolvimento de Sistemas 2º Modulo.
-- Tecnólogo: Faculdade Impacta - Análise e Desenvolvimento de Sistemas 1º Semestre.
+
+Tecnologias que uso e estudo atualmente:
+
+<p align="left">
+<img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/fa314a/css3.png"/>
+<img src="https://img.icons8.com/color/48/fa314a/javascript.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>
+<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
+</p>
+
+
+<p>
+    <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&hide=html&layout=compact&theme=tokyonight" />   
+</p>
+
 
 Contato:
 
-:e-mail: bruna.magalhaes02@hotmail.com
+<p>
+    <a href="https://www.linkedin.com/in/bruna-pianco/">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+    </a>
+</p>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=dracula"/></td>
-    </tr>   
-</table>
-</center>   
+
 
 
 <!--
