@@ -21,14 +21,6 @@ Tecnologias que uso e estudo atualmente:
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 </p>
 
-
-<p>
-    <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&hide=html&layout=compact&theme=tokyonight" />   
- 
-</p>
-
-
 <p>
  Contato:
     <a href="https://www.linkedin.com/in/bruna-pianco/">
@@ -36,6 +28,13 @@ Tecnologias que uso e estudo atualmente:
     </a>
 
  </p>
+
+<p>
+    <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&hide=html&layout=compact&theme=tokyonight" />   
+ 
+</p>
+
 
 <!--
 **Bruna-Pianco/Bruna-Pianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
