@@ -40,7 +40,7 @@ Tecnologias que uso e estudo atualmente:
 
 <div> 
  
-  ![Snake animation](https://github.com/Bruna-Pianco/Bruna-Pianco/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Bruna-Pianco/Bruna-Pianco/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Bruna-Pianco/Bruna-Pianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
