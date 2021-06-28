@@ -31,7 +31,7 @@ Tecnologias que uso e estudo atualmente:
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Bruna-Pianco/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bruna-Pianco)](https://github.com/Bruna-Pianco/github-readme-stats)
 
 <p>
     Contato:
