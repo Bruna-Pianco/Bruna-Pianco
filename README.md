@@ -19,17 +19,16 @@ Tecnologias que uso e estudo atualmente:
 <img src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 </p>
-
-<p>
-    <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/><br><br><br><br><br>
-    <img width="375px" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
-</p>
-<br/><br/><br/><br/><br/>
 <p>
     Contato:
     <a href="https://www.linkedin.com/in/bruna-pianco/"><br/>
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
     </a>
+</p>
+
+<p>
+    <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/><br><br><br>
+    <img width="375px" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
 </p>
 
 
