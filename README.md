@@ -1,4 +1,3 @@
-
 ## Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>:earth_americas:
 
 Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! 
@@ -6,7 +5,6 @@ Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil!
  :house_with_garden:Moro em São Paulo
 
 :books: Cursando Análise e Desenvolvimento de Sistemas | Faculdade Impacta
-
 
 
 Tecnologias que uso e estudo atualmente:
@@ -22,16 +20,11 @@ Tecnologias que uso e estudo atualmente:
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 </p>
 
-
-
-
 <p>
     <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-     <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/>
+     <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/>
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
 
 <p>
     Contato:
@@ -40,7 +33,6 @@ Tecnologias que uso e estudo atualmente:
     </a>
 </p>
 
-<div> 
  
   
 <!--
