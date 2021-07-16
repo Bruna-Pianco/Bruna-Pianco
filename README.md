@@ -21,8 +21,8 @@ Tecnologias que uso e estudo atualmente:
 </p>
 
 <p>
-    <img width="472px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
-     <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/>
+    <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/>
+    <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -32,6 +32,7 @@ Tecnologias que uso e estudo atualmente:
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
     </a>
 </p>
+
 
 
  
