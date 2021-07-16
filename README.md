@@ -20,7 +20,7 @@ Tecnologias que uso e estudo atualmente:
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
-<img data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a95a1ba-2c67-49d2-a00c-0c3feb5ab4c9" data-share-badge-host="https://www.credly.com"><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a95a1ba-2c67-49d2-a00c-0c3feb5ab4c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
 
