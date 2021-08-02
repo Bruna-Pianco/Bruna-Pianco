@@ -1,15 +1,18 @@
-## Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>:earth_americas:
 
-Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! 
-
- :house_with_garden:Moro em São Paulo
-
-:books: Cursando Análise e Desenvolvimento de Sistemas | Faculdade Impacta
+Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 
 
-Tecnologias que uso e estudo atualmente:
+ Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! <br>
+:house_with_garden: Moro em São Paulo<br>
+:books: Cursando Análise e Desenvolvimento de Sistemas | Faculdade Impacta<br><br>
 
-<p align="left">
+<div>
+    <a href="https://github.com/Bruna-Pianco"></a>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=radical"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=radical"/>
+</div>
+
+<div>
 <img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/fa314a/css3.png"/>
 <img src="https://img.icons8.com/color/48/fa314a/javascript.png"/>
@@ -18,18 +21,19 @@ Tecnologias que uso e estudo atualmente:
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
-</p>
-<p>
-    Contato:
+<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+</div>
+
+<div>
     <a href="https://www.linkedin.com/in/bruna-pianco/"><br/>
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
     </a>
-</p>
+</div>
 
-<p>
-    <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=tokyonight"/><br><br><br>
-    <img width="375px" src="https://github-readme-stats.vercel.app/api?username=Bruna-Pianco&theme=tokyonight"/>
-</p>
+
+
+ ![Snake animation](https://github.com/Bruna-Pianco/Bruna-Pianco/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
