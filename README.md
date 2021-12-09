@@ -2,7 +2,7 @@
 Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 
 
- Meu nome é Bruna, tenho 27 anos e atualmente sou estágiaria na Avanade Brasil! <br>
+ Meu nome é Bruna, tenho 27 anos e atualmente sou Desenvolvedora RPA Jr na Avanade Brasil! <br>
 :house_with_garden: Moro em São Paulo<br>
 :books: Cursando Análise e Desenvolvimento de Sistemas | Faculdade Impacta<br><br>
 
