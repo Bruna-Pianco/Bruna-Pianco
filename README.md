@@ -24,7 +24,7 @@ Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/microsoft-power-automate-2020.png"/>
 <img  height="46px" width="46" src="https://www.blueprism.com/assets/icons/triangle-updated.png"/>
-<img  height="46px" width="46" src= "https://iconape.com/wp-content/files/if/350065/png/blue-prism-logo.png"/>
+<img src= "https://iconape.com/wp-content/files/if/350065/png/blue-prism-logo.png"/>
 </div>
 
 <div>
