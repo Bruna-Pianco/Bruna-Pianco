@@ -15,11 +15,11 @@ Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 <div>
 <img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/fa314a/css3.png"/>
-<img src="https://img.icons8.com/color/48/fa314a/javascript.png"/>
+<!--<img src="https://img.icons8.com/color/48/fa314a/javascript.png"/>-->
 <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>
+<!--<img src="https://img.icons8.com/ios-filled/50/fa314a/angularjs.png"/>-->
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/microsoft-power-automate-2020.png"/>
