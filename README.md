@@ -24,6 +24,9 @@ Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/microsoft-power-automate-2020.png"/>
 <img height="46px" src= "https://iconape.com/wp-content/files/if/350065/png/blue-prism-logo.png"/>
+<img height="46px" ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/72232379/230699560-69837d56-cdcf-4e2d-af66-ab8f57e3d2c8.png)/>
+<img height="46px"![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/72232379/230699563-3646082b-2677-4de6-b6b2-659a6575757f.png)/>
+
 </div>
 
 <div>
