@@ -2,7 +2,7 @@
 Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 
 
- Meu nome é Bruna, tenho 29 anos e atualmente sou Desenvolvedora RPA na Avanade Brasil! <br>
+ Meu nome é Bruna, tenho 30 anos e atualmente sou Desenvolvedora RPA na Avanade Brasil! <br>
 :house_with_garden: Moro em São Paulo<br>
 :books: Formanda em Análise e Desenvolvimento de Sistemas | Faculdade Impacta<br><br>
 
