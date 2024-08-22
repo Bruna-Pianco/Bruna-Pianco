@@ -13,6 +13,7 @@ Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 </div>
 
 <div>
+<img height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/fa314a/css3.png"/>
 <!--<img src="https://img.icons8.com/color/48/fa314a/javascript.png"/>-->
@@ -24,7 +25,7 @@ Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/microsoft-power-automate-2020.png"/>
 <img height="46px" src= "https://iconape.com/wp-content/files/if/350065/png/blue-prism-logo.png"/>
-<img height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+
  
 </div>
 
