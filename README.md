@@ -12,8 +12,6 @@ Hello World! <img src="https://img.icons8.com/ultraviolet/20/fa314a/like.png"/>
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-Pianco&layout=compact&langs_count=12&theme=radical"/>
 </div>
 
-<div data-iframe-width="48" data-iframe-height="48" data-share-badge-id="1a95a1ba-2c67-49d2-a00c-0c3feb5ab4c9" data-share-badge-host="https://www.credly.com"></div>
-
 <div>
 <img height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img src="https://img.icons8.com/color/48/fa314a/html-5--v1.png"/>
